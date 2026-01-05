@@ -10,7 +10,7 @@ Projekt graficzny 3D napisany w C++ i OpenGL na Politechnice Poznańskiej w rama
 
 ### Demo
 
-![Aquarium Demo](;;)
+![Aquarium Demo](./demo.gif)
 
 ---
 

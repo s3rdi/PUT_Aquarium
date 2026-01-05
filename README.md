@@ -16,8 +16,6 @@ Projekt graficzny 3D napisany w C++ i OpenGL na Politechnice Poznańskiej w rama
 
 ## Technologie
 
-Projekt wykorzystuje następujące biblioteki:
-
 * **[OpenGL](https://www.opengl.org/)** - API graficzne,
 * **[GLFW](https://www.glfw.org/)** - obsługa okna i wejścia,
 * **[GLEW](http://glew.sourceforge.net/)** - dla OpenGL,
